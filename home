@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Hasim Emre Ozocal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="styleabout.css" />
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli:200,300,400,600,700,800" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>
+            Hasim Emre Ozocal
+        </h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html" class="btn">Works</a>
+                </li>
+                <li>
+                    <a href="#" class="btn">About</a>
+                </li>
+                
+            </ul>
+        </nav>
+        <p class="summary">
+            <span class="mark"><span class="text">a UX passionate.</span></span>  Who loves to make people’s life easier.<br>
+            <span class="mark"><span class="text">a UI artist.</span></span>Who loves to draw beautiful interfaces.
+        </p>
+        
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+        </section>
+
+        <section class="info">
+            
+            <div class="sum">
+                <p>Highly enthusiastic and multitalented designer with extensive experience in UI/UX and Product Design.</p>
+                    
+                <p>Exeptional collaborative and interpersonal skills; dynamic team player with well-developed written,
+                    and verbal communication abilities. Highly skilled in client relations and negotiations; talented at
+                    building “win-win” partnerships.</p> 
+                <p> Solving design problems and creating aesthetic design solutions is
+                    where my enthusiasm lies. I accustomed to performing in deadline-driven environments. </p>
+            </div>
+
+            <div class="me">
+                    <img src="images/ben.jpg" alt="" width="100%" height="auto">
+            </div>
+        </section>
+
+        <section class="info">
+            <div class="resume">
+                <h3>Experience</h3>
+                <ul>
+                    <li>
+                        <strong>Product Designer, Udentify<br></strong>
+                        <em>MAR 2018 - PRESENT / ISTANBUL<br></em>
+                        <p>Redesigning the application from a scratch. Applying UX principles to the desktop application. Continuously measured and optimized the user experience through a combination of quantitative and qualitative research methods.</p>
+                    </li>
+                    <li>
+                        <strong>UI/UX - Graphic Production Artist, Hogarth&nbsp;WW<br></strong>
+                        <em>AGU 2015 - PRESENT / SAN FRANCISCO - ISTANBUL<br></em>
+                        <p>Created new user interface materials for mobile and desktop services. Collaborated with the development team to design and implement user-centered interfaces to websites and mobile.</p>
+                    </li>
+                    <li>
+                        <strong>UI/UX Designer, DirectComm<br></strong>
+                        <em>DEC 2014 - AGU 2015 / ISTANBUL<br></em>
+                        <p>Designed and developed all art-related projects for clients. Created design solutions for client specifications. </p>
+                    </li>
+                    <li>
+                        <strong>UI Designer, Rhino Runner<br></strong>
+                        <em>MAR 2013 - DEC 2014 / ISTANBUL<br></em>
+                        <p>Responsible on more than 20 brand’s social media pages. I’ve design all art related images for these pages.</p>
+                    </li>
+                    <li>
+                        <strong>Graphic Designer, Turuncu<br></strong>
+                        <em>2012 - MAR 2013 / ISTANBUL<br></em>
+                        <p>Created new design themes for digital marketing materials.</p>
+                    </li>
+                </ul>
+            </div>
+            <div class="resume">
+                    <h3>Education</h3>
+                    <ul>
+                        <li>
+                            <strong>Interaction Design Foundation - Certification Program<br></strong>
+                            <em>OCT 2018 - PRESENT<br></em>
+                            <ul class="certification">
+                                <li>User Experience</li>
+                                <li>Gestalt Psychology and Web Design</li>
+                                <li>Psychology of Interaction Design</li>
+                                <li>Human-Computer Interaction - HCI</li>
+                                <li>Design Thinking</li>
+                                <li>Mobile User Experience (UX) Design</li>
+                                <li>Conducting Usability Testing</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <strong>Sociology, Istanbul University<br></strong>
+                            <em>2016 - PRESENT<br></em>
+                            <p>The study of the development, structure, and functioning of human society.</p>
+                        </li>
+                        <li>
+                            <strong>Graphic Design, Dogus University<br></strong>
+                            <em>2010 - 2012<br></em>
+                            <p>Redesigning the application from a scratch. Applying UX principles to the desktop application.</p>
+                        </li>
+
+                        <li class="button">
+                           <p>Download Résumé</p>
+                        </li>
+                        
+                    </ul>
+                </div>
+        </section>
+    </main>
+    <footer>
+            <a href="mailto:heozocal@gmail.com" target="_blank">Email</a>
+            <a href="https://www.linkedin.com/in/hasimemreozocal/" target="_blank">LinkedIn</a>
+            <a href="https://dribbble.com/emreozocal" target="_blank">Dribbble</a>
+            <a href="https://www.behance.net/emreozocal" target="_blank">Behance</a>
+        </footer> 
+</body>
+</html>
